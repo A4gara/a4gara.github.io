@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[A4GARA]]></title>
+  <subtitle><![CDATA[Um espaço minimo!]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="https://a4gara.github.io/blog/"/>
+  <updated>2015-05-30T20:11:16.000Z</updated>
+  <id>https://a4gara.github.io/blog/</id>
+  
+  <author>
+    <name><![CDATA[Alexandre Gabriel Rezende Azevedo]]></name>
+    <email><![CDATA[a4gara@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Minha opinião sobre o Windows e minha decisão de usar uma Distro Gnu/Linux]]></title>
+    <link href="https://a4gara.github.io/blog/2015/05/30/Minha-opiniao-sobre-o-Windows/"/>
+    <id>https://a4gara.github.io/blog/2015/05/30/Minha-opiniao-sobre-o-Windows/</id>
+    <published>2015-05-30T18:46:08.000Z</published>
+    <updated>2015-05-30T20:11:16.000Z</updated>
+    <content type="html"><![CDATA[<p>Olá a todos, eu vou ser breve:</p>
+<p>Minha opinião sincera sobre o S.O da Microsoft e apenas: Eu não gosto por conta dos travamento e o número de vírus!</p>
+<p>Oque???? mas!!!<br>Ok, ok o Windows e bom e tudo mais, mas.</p>
+<p>Vamos explicar o meu modo de pensar, a minha formação e tudo mais.</p>
+<p>Sou uma pessoa simples, sem muito tempo para ficar arrumando a minha maquina, então todo o tempo que eu passava arrumando a mesma foi um montante de mais de algumas semanas perdidos se formos contar o tempo que a mesma passava nas lojas especializadas ou com os amigos que sabiam mais do que eu, eu devo ter perdido mais ou menos 4 meses ou mais! isso na época, isso faz muito tempo.</p>
+<p>O meu motivo para usar um Distro Gnu/Linux, depois de estudar manutenção, programação e outras coisas na época eu decidi “Esse Sistema da Microsoft e um verdadeiro pé no saco, vou usar o Distro Gnu/Linux!”</p>
+<p>Minha primeira impressão sobre um Distro do vamos chamar de Tux (Leia Ubuntu 10.04), foi um perfeito murro em ponta de faca, eu não sabia nada, e não sabia rodar um #sudo apt-get update passei uns dias legais brigando por muitas coisas, mas beleza, passado e passado e para mim uma Distro do Tux e essencial estar instalada na minha maquina ou ter um boot de uma Distro de fácil instalação em um Pendrive.</p>
+<p>Ps: Largue o Unetbootin e passe a usar o dd #if=disto.iso of=/dev/.. veja antes qual os dispositivos removíveis com #df</p>
+<p>Mas para os que vão ler estão um tanto chateados com as minhas palavras, vejam esse vídeo, como eu disse eu estudei programação então o melhor sistema para mim seria um Distro do Tux pois ele e mais fácil de usar!<br>Leia-se: Caso haja algum problema, eu posso usar um Pen drive e terminar de trabalhar em modo live ou fazer qualquer manutenção rápida para continuar trabalhando sem que eu perca muito tempo!</p>
+<div class="video-container"><iframe src="//www.youtube.com/embed/_STRZHRV2YA" frameborder="0" allowfullscreen></iframe></div>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Olá a todos, eu vou ser breve:</p>
+<p>Minha opinião sincera sobre o S.O da Microsoft e apenas: Eu não gosto por conta dos travamento e o ]]>
+    </summary>
+    
+      <category term="Windows, Sistemas" scheme="https://a4gara.github.io/blog/tags/Windows-Sistemas/"/>
+    
+      <category term="S.O" scheme="https://a4gara.github.io/blog/categories/S-O/"/>
+    
+  </entry>
+  
+</feed>
