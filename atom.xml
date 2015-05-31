@@ -3,9 +3,9 @@
   <title><![CDATA[A4GARA]]></title>
   <subtitle><![CDATA[Um espaço minimo!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="https://a4gara.github.io/blog/"/>
+  <link href="https://a4gara.github.io/"/>
   <updated>2015-05-30T20:11:16.000Z</updated>
-  <id>https://a4gara.github.io/blog/</id>
+  <id>https://a4gara.github.io/</id>
   
   <author>
     <name><![CDATA[Alexandre Gabriel Rezende Azevedo]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Minha opinião sobre o Windows e minha decisão de usar uma Distro Gnu/Linux]]></title>
-    <link href="https://a4gara.github.io/blog/2015/05/30/Minha-opiniao-sobre-o-Windows/"/>
-    <id>https://a4gara.github.io/blog/2015/05/30/Minha-opiniao-sobre-o-Windows/</id>
+    <link href="https://a4gara.github.io/2015/05/30/Minha-opiniao-sobre-o-Windows/"/>
+    <id>https://a4gara.github.io/2015/05/30/Minha-opiniao-sobre-o-Windows/</id>
     <published>2015-05-30T18:46:08.000Z</published>
     <updated>2015-05-30T20:11:16.000Z</updated>
     <content type="html"><![CDATA[<p>Olá a todos, eu vou ser breve:</p>
@@ -36,9 +36,9 @@
 <p>Minha opinião sincera sobre o S.O da Microsoft e apenas: Eu não gosto por conta dos travamento e o ]]>
     </summary>
     
-      <category term="Windows, Sistemas" scheme="https://a4gara.github.io/blog/tags/Windows-Sistemas/"/>
+      <category term="Windows, Sistemas" scheme="https://a4gara.github.io/tags/Windows-Sistemas/"/>
     
-      <category term="S.O" scheme="https://a4gara.github.io/blog/categories/S-O/"/>
+      <category term="S.O" scheme="https://a4gara.github.io/categories/S-O/"/>
     
   </entry>
   
