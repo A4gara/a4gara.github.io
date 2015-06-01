@@ -4,12 +4,45 @@
   <meta charset="utf-8">
   
   <title>Minha opinião sobre o Windows e minha decisão de usar uma Distro Gnu/Linux | A4GARA</title>
- <!-- Preload -->
-  <link rel="stylesheet" href="/css/introLoader.min.css" type="text/css">
-  <!-- See more at: http://factory.brainleaf.eu/jqueryIntroLoader/#sthash.c1KRfpw0.dpuf-->
-<!-- JS Preload -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-  <script src="/js/jquery.introLoader.pack.min.js" type="text/javascript"></script>
+  <!-- EFEITO OLOADER JQUERY-->
+ <!-- http://www.jqueryrain.com/?B4MG379P -->
+ <!--<script src="/js/jquery.min.js" type="text/javascript"></script>-->
+ <script src="/js/jquery.oLoader.min.js" type="text/javascript"></script>
+<script type='text/javascript'>
+ $(function(){
+   $.oPageLoader({
+     backgroundColor: '#fff',
+     fadeLevel: 0.8,
+     percentageColor: '#444',
+     percentageFontSize: '20px',
+     progressBarColor: 'url(http://projects.ownage.sk/images/arrow.png) no-repeat right',
+     progressBarHeight: 30,
+     progressBarFadeLevel: 0.9
+   });
+   refreshImgW();
+   $(window).load(function(){
+     setTimeout(function(){
+       refreshImgW();
+     },100);
+   });
+   $(window).resize(function(){
+     refreshImgW();
+   });
+ });
+ function refreshImgW() {
+   var w = $('#image-part').width();
+   var tolerance = 10;
+   var imgW = 300;
+   for(i=350;i>=150;i--) {
+     num = w%i;
+     if(num<tolerance) {
+       imgW = i;
+       break;
+     }
+   }
+
+ }
+ </script>
 
   <!-- HUMANS -->
     <link type="text/plain" rel="author" href="/humans.txt" />
@@ -87,6 +120,7 @@
     </div>
   </div>
 </header>
+
     <div class="container">
       <div class="main-body container-inner">
         <div class="main-body-inner">
@@ -130,7 +164,7 @@
 
       </div>
       <footer class="article-footer">
-        <a data-url="https://a4gara.github.io/2015/05/30/Minha-opiniao-sobre-o-Windows/" data-id="ciad5pqjl00000npv79k9zn4u" class="article-share-link">Compartilhar</a>
+        <a data-url="https://a4gara.github.io/2015/05/30/Minha-opiniao-sobre-o-Windows/" data-id="ciad6eglj0000ivpv55o6gcn7" class="article-share-link">Compartilhar</a>
         
           <a href="https://a4gara.github.io/2015/05/30/Minha-opiniao-sobre-o-Windows/#comments" class="article-comment-link">Comentários</a>
         
